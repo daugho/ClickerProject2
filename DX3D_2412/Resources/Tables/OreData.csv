@@ -1,0 +1,7 @@
+ID,Name,TexturePath,SizeX,SizeY,SizeZ,Health
+0,Bronze,Resources/Textures/Model/MinerOre/Wood/Bronze/Wood_Bronze.png,2,2,2,10
+1,Amber,Resources/Textures/Model/MinerOre/Wood/Amber/Wood_Amber.png,5,5,5,100
+2,Silver,Resources/Textures/Model/MinerOre/Wood/Bronze/Wood_Bronze.png,5,5,5,1700
+3,Gold,Resources/Textures/Model/MinerOre/Wood/Bronze/Wood_Bronze.png,5,5,5,21000
+4,Titium,Resources/Textures/Model/MinerOre/Wood/Bronze/Wood_Bronze.png,5,5,5,350000
+5,Platinum,Resources/Textures/Model/MinerOre/Wood/Bronze/Wood_Bronze.png,5,5,5,3800000

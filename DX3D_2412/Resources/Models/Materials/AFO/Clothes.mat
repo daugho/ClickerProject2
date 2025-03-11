@@ -1,0 +1,14 @@
+<Material Name="Clothes">
+    <Shader Vertex="Custom\UnitOpaque.hlsl" Pixel="Custom\UnitOpaque.hlsl"/>
+    <Texture>
+        <DiffuseMap Diffuse="Resources\Textures\Model\AFO\tex_pl1194004body.png"/>
+        <SpecularMap Specular="Resources/Textures/Colors/White.png"/>
+        <NormalMap Normal="Resources/Textures/Colors/White.png"/>
+    </Texture>
+    <Property Shininess="20" HasNormalMap="0">
+        <Diffuse R="1" G="1" B="1" A="1"/>
+        <Specular R="1" G="1" B="1" A="1"/>
+        <Ambient R="1" G="1" B="1" A="1"/>
+        <Emissive R="0" G="0" B="0" A="1"/>
+    </Property>
+</Material>

@@ -1,0 +1,14 @@
+<Material Name="M_Agatha_Dress_metal">
+    <Shader Vertex="Light/Light.hlsl" Pixel="Light/Light.hlsl"/>
+    <Texture>
+        <DiffuseMap Diffuse="Resources/Textures/Colors/White.png"/>
+        <SpecularMap Specular="Resources/Textures/Colors/White.png"/>
+        <NormalMap Normal="Resources/Textures/Colors/White.png"/>
+    </Texture>
+    <Property Shininess="36" HasNormalMap="0">
+        <Diffuse R="0.42276299" G="0.57014322" B="0.86523968" A="1"/>
+        <Specular R="0.42276299" G="0.57014322" B="0.86523968" A="1"/>
+        <Ambient R="0" G="0" B="0" A="1"/>
+        <Emissive R="0" G="0" B="0" A="1"/>
+    </Property>
+</Material>

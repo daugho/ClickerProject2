@@ -1,0 +1,7 @@
+id,name,texturePath,dropRate,minCount,maxCount,price
+1,Normal2,Resources/Textures/Landscape/Dirt3.png,60,1,5,10
+2,common2,Resources/Textures/Landscape/Dirt3.png,20,1,4,15
+3,uncommon2,Resources/Textures/Landscape/Dirt3.png,10,1,3,35
+4,Rare2,Resources/Textures/Landscape/Dirt3.png,5,1,2,50
+5,Unique2,Resources/Textures/Landscape/Dirt3.png,3,1,1,70
+6,Legend2,Resources/Textures/Landscape/Dirt3.png,2,1,1,100

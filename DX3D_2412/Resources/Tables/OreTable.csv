@@ -1,0 +1,10 @@
+key,name,hp,price,texture,icon
+1,Âü³ª¹«,1,100,Resources/Textures/Block/Block0.png,Resources/Textures/Item/cham_oak_plank.png
+2,´«µ¢ÀÌ,2,300,Resources/Textures/Block/Block1.png,Resources/Textures/Item/ice_block.png
+3,¼®Åº,5,700,Resources/Textures/Block/Block2.png,Resources/Textures/Item/coal.png
+4,°ñµå,6,1500,Resources/Textures/Block/Block3.png,Resources/Textures/Item/gold_ingot.png
+5,´ÙÀÌ¾Æ,10,5000,Resources/Textures/Block/Block4.png,Resources/Textures/Item/diamond.png
+6,¸·´ë±â,1,3000,None,Resources/Textures/Item/stick.png
+7,´ÙÀÌ¾Æ¼Òµå,1,1000000,None,Resources/Textures/Item/diamond_sword.png
+8,°ñµåÇï¸ä,1,500000,None,Resources/Textures/Item/golden_helmet.png
+9,°ñµå°©¿Ê,1,500000,None,Resources/Textures/Item/golden_chestplate.png

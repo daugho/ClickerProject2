@@ -1,0 +1,5 @@
+key,row,col,leftTop,centerTop,rightTop,leftMiddle,centerMiddle,rightMiddle,leftBottom,centerBottom,rightBottom,result
+1,1,2,1,0,0,1,0,0,0,0,0,6
+2,2,2,1,5,0,1,0,0,0,0,0,7
+3,2,2,4,4,0,0,4,0,0,0,0,8
+4,2,2,0,4,0,4,4,0,0,0,0,9
