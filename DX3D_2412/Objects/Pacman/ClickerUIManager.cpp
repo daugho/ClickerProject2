@@ -27,6 +27,8 @@ void ClickerUIManager::Update()
 
 void ClickerUIManager::Render()
 {
+    //Environment::Get()->SetAlphaBlend(true);
+
     cursor->Render();
     inventory->Render();
 }
@@ -40,5 +42,5 @@ void ClickerUIManager::CreateUI()
 {
     cursor = new Quad(L"Resources/Textures/UI/cursor.png");
     cursor->SetLocalPosition(CENTER);
-    cursor->UpdateWorld();
+    cursor->UpdateWorld();    
 }
